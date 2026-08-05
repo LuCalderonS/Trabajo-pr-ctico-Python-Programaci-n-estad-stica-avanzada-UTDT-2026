@@ -3,7 +3,7 @@ El repositorio contiene el código desarrollado y las explicaciones correspondie
 El trabajo se divide en tres partes independientes:
 
 1. **Parte 1: Robustez ante contaminación de muestras**
-   * **1.1 Estimadores de tendencia central:** Evaluación del sesgo y el Error Cuadrático Medio (ECM) de la media frente a la mediana bajo distintos niveles de contaminación con *outliers* ($p \in \{0\%, 5\%, 10\%, 20\%\}$) a través de $M = 1000$ simulaciones.
+   * **1.1 Estimadores de tendencia central:** Evaluación del sesgo y el Error Cuadrático Medio (ECM) de la media frente a la mediana bajo distintos niveles de contaminación con *outliers* $p \in \{0\%, 5\%, 10\%, 20\%\}$ a través de $M = 1000$ simulaciones.
    * **1.2 Regresión lineal bajo contaminación:** Implementación manual de OLS utilizando la fórmula matricial $\beta = (X^{\prime}X)^{-1}X^{\prime}y$ y del estimador LAD, evaluando su desempeño en $M = 500$ simulaciones.
 
 2. **Parte 2: Paradoja de Simpson y variables omitidas**
