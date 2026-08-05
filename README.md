@@ -16,7 +16,7 @@ El trabajo se divide en tres partes independientes:
 
 ---
 
-## Requisitos de Ejecución y Estructura
+## Estructura
 
 * **Notebook Ejecutable:** Todo el código se encuentra integrado en un notebook de Google Colab ejecutable de principio a fin, configurado con una semilla fija al inicio para garantizar la reproducibilidad.
 * **Interpretación:** Cada parte incluye celdas de Markdown dedicadas exclusivamente a la interpretación económica y estadística de los resultados obtenidos.
