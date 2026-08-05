@@ -25,7 +25,6 @@ El trabajo se divide en tres partes independientes:
 
 ## Cómo Ejecutar el Proyecto
 
-1. Clona este repositorio o descarga el archivo del notebook de Colab disponible en el repositorio.
-2. Abre el notebook directamente en **Google Colab** haciendo clic en el enlace provisto o súbelo a tu entorno de Google Drive.
-3. Asegúrate de contar con las librerías estándar de computación científica y optimización en Python (`numpy`, `pandas`, `matplotlib`, `seaborn`, `scipy`).
-4. Ejecuta las celdas en orden secuencial (de arriba hacia abajo). El notebook descargará automáticamente las fuentes de datos necesarias (como el dataset de Gapminder) y se ejecutará sin requerir modificaciones adicionales.
+1. Cloná este repositorio o descargá el archivo del notebook de Colab disponible en el repositorio.
+2. Abrí el notebook directamente en **Google Colab** haciendo clic en el enlace provisto o subilo a tu entorno de Google Drive.
+3. Ejecutá las celdas en orden secuencial. El notebook descargará automáticamente las galerías y las fuentes de datos necesarias (como el dataset de Gapminder) y se ejecutará sin requerir modificaciones adicionales.
