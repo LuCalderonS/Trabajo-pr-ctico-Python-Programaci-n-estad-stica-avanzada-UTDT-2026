@@ -7,7 +7,7 @@ El trabajo se divide en tres partes independientes:
    * **1.2 Regresión lineal bajo contaminación:** Implementación manual de OLS utilizando la fórmula matricial $\beta = (X^{\prime}X)^{-1}X^{\prime}y$ y del estimador LAD, evaluando su desempeño en $M = 500$ simulaciones.
 
 2. **Parte 2: Paradoja de Simpson y variables omitidas**
-   * Simulación de un modelo con variables discretas y continuas donde se evidencia cómo la omisión de variables de control distorsiona el efecto real de $X$ sobre $Y$. 
+   * Simulación de un modelo con distintas variables donde se evidencia cómo la omisión de variables de control distorsiona el efecto real de $X$ sobre $Y$. 
    * Análisis de la distribución del estimador $\beta_X$ bajo tres especificaciones (sin controles, con control $Z$ y con control $W$) y demostración empírica de que el sesgo por variable omitida no desaparece con muestras grandes, acompañado de su respectiva ilustración visual de la paradoja.
 
 3. **Parte 3: Análisis empírico con Gapminder**
